@@ -9,9 +9,10 @@
 <h2 align="center">About Me</h2>
 <img align="right" width="300" src="assets/about-art.svg" alt="A girl coding at a curved monitor by a window over a night city">
 I moved to America with the hope of becoming a CPA, but an on-campus job at the IT help desk showed me how much I enjoy solving technical problems. In my junior year, I switched my major to Information Technology and Systems and never looked back.
+
 Since then, I've worked at the Federal Reserve Bank of Dallas as an ITS Architecture Intern, building a district-wide tracking platform and connecting data across five teams.
 After graduation, I joined CBRE, where I've built multi-agent LLM systems that flag work order escalations in real time, ML models that guide repair-or-replace decisions, data pipelines and dashboards used across four regions, and a hackathon-winning troubleshooting assistant for technicians.
-I'm also doing my master's in Data Science part time at Penn.
+I'm also doing my master's in Data Science part time at Penn!
 <br clear="right">
 <br>
 <h2 align="center">Connect</h2>
