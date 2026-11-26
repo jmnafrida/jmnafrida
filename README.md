@@ -16,7 +16,7 @@ I'm also doing my master's in Data Science part time at Penn.
 <br>
 <h2 align="center">Connect</h2>
 <p align="center">
-<a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub"></a>
+<a href="https://github.com/jmnafrida"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub"></a>
  
 <a href="https://linkedin.com/in/afridanjaman"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"></a>
  
