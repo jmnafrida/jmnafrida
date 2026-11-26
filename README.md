@@ -1,7 +1,7 @@
 <p align="center">
 <img src="cover.svg" width="100%" alt="Northern lights over Icelandic mountains with a purple haze">
 </p>
-<h1 align="center">Hi, I'm Afrida</h1>
+<h1 align="center">Hi, I'm Afrida!</h1>
 <h3 align="center">Data and AI Professional</h3>
 <p align="center">Turning ambiguous problems into business decisions with end-to-end data and AI solutions, spanning analysis, pipelines, dashboards, ML models and multi-agent systems</p>
 <br>
