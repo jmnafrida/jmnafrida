@@ -2,8 +2,8 @@
 <img src="cover.svg" width="100%" alt="Northern lights over Icelandic mountains with a purple haze">
 </p>
 <h1 align="center">Hi, I'm Afrida!</h1>
-<h3 align="center">Data and AI Professional</h3>
-<p align="center">Turning ambiguous problems into business decisions with end-to-end data and AI solutions, spanning analysis, pipelines, dashboards, ML models and multi-agent systems</p>
+<h3 align="center">Data and AI Professional - Turning ambiguous problems into business decisions with end-to-end data and AI solutions, spanning analysis, pipelines, dashboards, ML models and multi-agent systems.</h3>
+<p align="center"></p>
 <br>
 <h2 align="center">About Me</h2>
 <img align="right" width="300" src="about-art.svg" alt="A girl coding at a curved monitor by a window over a night city">
