@@ -3,8 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm Afrida</h1>
 <h3 align="center">Data and AI Professional</h3>
-<p align="center"><code>building production AI, end to end</code></p>
-<p align="center">Turning data into production AI, from analysis and pipelines to ML models and multi-agent LLM systems.</p>
+<p align="center">Turning ambiguous problems into business decisions with end-to-end data and AI solutions, spanning analysis, pipelines, dashboards, ML models and multi-agent systems</p>
 <br>
 <h2 align="center">About Me</h2>
 <img align="right" width="300" src="about-art.svg" alt="A girl coding at a curved monitor by a window over a night city">
