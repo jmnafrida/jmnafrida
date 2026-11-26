@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/cover.svg" width="100%" alt="Northern lights over Icelandic mountains with a purple haze">
+<img src="cover.svg" width="100%" alt="Northern lights over Icelandic mountains with a purple haze">
 </p>
 <h1 align="center">Hi, I'm Afrida</h1>
 <h3 align="center">Data and AI Professional</h3>
@@ -7,7 +7,7 @@
 <p align="center">Turning data into production AI, from analysis and pipelines to ML models and multi-agent LLM systems.</p>
 <br>
 <h2 align="center">About Me</h2>
-<img align="right" width="300" src="assets/about-art.svg" alt="A girl coding at a curved monitor by a window over a night city">
+<img align="right" width="300" src="about-art.svg" alt="A girl coding at a curved monitor by a window over a night city">
 I moved to America with the hope of becoming a CPA, but an on-campus job at the IT help desk showed me how much I enjoy solving technical problems. In my junior year, I switched my major to Information Technology and Systems and never looked back.
 
 Since then, I've worked at the Federal Reserve Bank of Dallas as an ITS Architecture Intern, building a district-wide tracking platform and connecting data across five teams.
